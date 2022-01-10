@@ -1,0 +1,22 @@
+{
+  "name": "js-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawalali07/arrayFunctionsJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawalali07/arrayFunctionsJS/issues"
+  },
+  "homepage": "https://github.com/shawalali07/arrayFunctionsJS#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
